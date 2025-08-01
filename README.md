@@ -8,4 +8,4 @@
 
 ### Objetivo
 
-Consolidar os fundamentos de html e css aplicando boas práticas de responsividade com media queries, unidades relativas, variáveis de estilo e segmentação de classes.
+Consolidar fundamentos de html e css aplicando boas práticas de responsividade com media queries, unidades relativas, variáveis de estilo e segmentação de classes.
